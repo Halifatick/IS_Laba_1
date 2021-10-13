@@ -1,0 +1,28 @@
+E:\4 курс\Защита информации\Крыжевич\Laba1\Laba1\bin\Debug\Laba1.exe.config
+E:\4 курс\Защита информации\Крыжевич\Laba1\Laba1\bin\Debug\Laba1.exe
+E:\4 курс\Защита информации\Крыжевич\Laba1\Laba1\bin\Debug\Laba1.pdb
+E:\4 курс\Защита информации\Крыжевич\Laba1\Laba1\obj\Debug\Laba1.csprojAssemblyReference.cache
+E:\4 курс\Защита информации\Крыжевич\Laba1\Laba1\obj\Debug\Laba1.Form1.resources
+E:\4 курс\Защита информации\Крыжевич\Laba1\Laba1\obj\Debug\Laba1.Properties.Resources.resources
+E:\4 курс\Защита информации\Крыжевич\Laba1\Laba1\obj\Debug\Laba1.csproj.GenerateResource.cache
+E:\4 курс\Защита информации\Крыжевич\Laba1\Laba1\obj\Debug\Laba1.exe
+E:\4 курс\Защита информации\Крыжевич\Laba1\Laba1\obj\Debug\Laba1.pdb
+C:\Users\artem\Desktop\Laba1\Laba1\bin\Debug\Laba1.exe.config
+C:\Users\artem\Desktop\Laba1\Laba1\bin\Debug\Laba1.exe
+C:\Users\artem\Desktop\Laba1\Laba1\bin\Debug\Laba1.pdb
+C:\Users\artem\Desktop\Laba1\Laba1\obj\Debug\Laba1.csproj.AssemblyReference.cache
+C:\Users\artem\Desktop\Laba1\Laba1\obj\Debug\Laba1.Form1.resources
+C:\Users\artem\Desktop\Laba1\Laba1\obj\Debug\Laba1.Properties.Resources.resources
+C:\Users\artem\Desktop\Laba1\Laba1\obj\Debug\Laba1.csproj.GenerateResource.cache
+C:\Users\artem\Desktop\Laba1\Laba1\obj\Debug\Laba1.csproj.CoreCompileInputs.cache
+C:\Users\artem\Desktop\Laba1\Laba1\obj\Debug\Laba1.exe
+C:\Users\artem\Desktop\Laba1\Laba1\obj\Debug\Laba1.pdb
+E:\4 курс\Защита информации\Крыжевич\New\Laba1\Laba1\bin\Debug\Laba1.exe.config
+E:\4 курс\Защита информации\Крыжевич\New\Laba1\Laba1\bin\Debug\Laba1.exe
+E:\4 курс\Защита информации\Крыжевич\New\Laba1\Laba1\bin\Debug\Laba1.pdb
+E:\4 курс\Защита информации\Крыжевич\New\Laba1\Laba1\obj\Debug\Laba1.csprojAssemblyReference.cache
+E:\4 курс\Защита информации\Крыжевич\New\Laba1\Laba1\obj\Debug\Laba1.Form1.resources
+E:\4 курс\Защита информации\Крыжевич\New\Laba1\Laba1\obj\Debug\Laba1.Properties.Resources.resources
+E:\4 курс\Защита информации\Крыжевич\New\Laba1\Laba1\obj\Debug\Laba1.csproj.GenerateResource.cache
+E:\4 курс\Защита информации\Крыжевич\New\Laba1\Laba1\obj\Debug\Laba1.exe
+E:\4 курс\Защита информации\Крыжевич\New\Laba1\Laba1\obj\Debug\Laba1.pdb
